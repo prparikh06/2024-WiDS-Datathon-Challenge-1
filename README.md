@@ -1,0 +1,1 @@
+NOTE - the Notebooks have been rearranged for organization. please ensure that the train.csv and test.csv files are in the same path as the notebook you're running, or adjust the code to point to the correct path. happy datathon!
